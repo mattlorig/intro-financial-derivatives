@@ -1,0 +1,24 @@
+{
+  "title": "An Introduction to Financial Derivatives: Open Lecture Notes",
+  "upload_type": "lesson",
+  "description": "Open-source lecture notes on financial derivatives, originally developed for CFRM 504 at the University of Washington. Topics include forwards and futures, no-arbitrage bounds, the binomial model, the fundamental theorems of asset pricing, Brownian motion and Itô calculus, Black–Scholes, the Greeks, stochastic and local volatility, the Heston model, and barrier options. Each chapter ends with exercises; solutions are in the appendix. The notes are a single LaTeX file that compiles without external files.",
+  "creators": [
+    {
+      "name": "Lorig, Matthew",
+      "affiliation": "University of Washington",
+      "orcid": "0000-0001-5307-3447"
+    }
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "mathematical finance",
+    "financial derivatives",
+    "option pricing",
+    "Black-Scholes",
+    "stochastic volatility",
+    "lecture notes",
+    "open textbook"
+  ]
+}
