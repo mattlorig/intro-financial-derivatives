@@ -1,6 +1,10 @@
 # An Introduction to Financial Derivatives — Open Lecture Notes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23849183.svg)](https://doi.org/10.5281/zenodo.23849183)
+
 Matthew Lorig, Department of Applied Mathematics, University of Washington
+
+**[Download the PDF](https://github.com/mattlorig/intro-financial-derivatives/releases/latest)** from the latest release.
 
 Open-source lecture notes on financial derivatives, originally developed for CFRM 504 at the University of Washington. Topics include forwards and futures, no-arbitrage bounds, the binomial model, the fundamental theorems of asset pricing, Brownian motion and Itô calculus, Black–Scholes, the Greeks, stochastic and local volatility, the Heston model, and barrier options. Each chapter ends with exercises; solutions are in the appendix.
 
@@ -30,4 +34,4 @@ Contributors whose changes are accepted are listed in the preface.
 
 ## Citation
 
-M. Lorig, *An Introduction to Financial Derivatives: Open Lecture Notes*, https://github.com/mattlorig/intro-financial-derivatives, 2026.
+M. Lorig, *An Introduction to Financial Derivatives: Open Lecture Notes*, version 3.58, 2026. https://doi.org/10.5281/zenodo.23849183
