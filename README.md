@@ -1,5 +1,6 @@
 # An Introduction to Financial Derivatives — Open Lecture Notes
 
+[![arXiv](https://img.shields.io/badge/arXiv-2611.01355-b31b1b.svg)](https://arxiv.org/abs/2611.01355)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23849183.svg)](https://doi.org/10.5281/zenodo.23849183)
 
 Matthew Lorig, Department of Applied Mathematics, University of Washington
@@ -34,4 +35,17 @@ Contributors whose changes are accepted are listed in the preface.
 
 ## Citation
 
-M. Lorig, *An Introduction to Financial Derivatives: Open Lecture Notes*, version 3.58, 2026. https://doi.org/10.5281/zenodo.23849183
+M. Lorig, *An Introduction to Financial Derivatives: Open Lecture Notes*, version 3.58, 2026. arXiv:2611.01355. https://doi.org/10.5281/zenodo.23849183
+
+```bibtex
+@misc{lorig2026derivatives,
+  author       = {Lorig, Matthew},
+  title        = {An Introduction to Financial Derivatives: Open Lecture Notes},
+  year         = {2026},
+  eprint       = {2611.01355},
+  archivePrefix= {arXiv},
+  primaryClass = {q-fin.MF},
+  doi          = {10.5281/zenodo.23849183},
+  url          = {https://arxiv.org/abs/2611.01355}
+}
+```
